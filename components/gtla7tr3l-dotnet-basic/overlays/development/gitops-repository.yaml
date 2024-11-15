@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: gtla7tr3l-dotnet-basic-gitops-repository
+spec:
+  url: https://github.com/rhopp-rhtap-testing/gtla7tr3l-dotnet-basic-gitops
